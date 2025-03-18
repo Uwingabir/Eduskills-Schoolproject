@@ -1,69 +1,54 @@
-# Welcome to your Lovable project
+# EduSkills
 
-## Project info
+## 📌 Mission
+EduSkills aims to bridge the gap between education and industry needs by equipping individuals with the necessary skills demanded by employers. Our platform ensures a smoother transition from education to employment, creating job opportunities and fostering career growth.
 
-**URL**: https://lovable.dev/projects/c1d29e27-c7e3-429b-9640-b8b1e5921d6a
+## 🚀 Project Status
+**Near Completion**
 
-## How can I edit this code?
+### ✅ Key Achievements
+- Successfully completed backend development, including API endpoints and database integration.
+- Ensured secure and efficient data handling with proper validation and authentication mechanisms.
+- Finalized API contracts to improve seamless communication between the frontend and backend.
 
-There are several ways of editing your application.
+### 🔧 Challenges
+- Debugging issues while ensuring smooth API responses and handling errors efficiently.
+- Optimizing API calls to improve performance and reduce unnecessary data fetching.
 
-**Use Lovable**
+### 📅 Next Steps
+- Perform final testing and debugging to ensure a smooth user experience.
+- Refine the UI components and finalize the styling.
+- Deploy the application for initial testing and gather feedback.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c1d29e27-c7e3-429b-9640-b8b1e5921d6a) and start prompting.
+## 🛠 Tech Stack
+- **Frontend:** React, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** PostgreSQL
+- **Authentication:** JWT
+- **Version Control:** Git & GitHub
 
-Changes made via Lovable will be committed automatically to this repo.
+## 📂 Installation & Setup
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Uwingabir/Eduskills-Schoolproject.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd Eduskills-Schoolproject
+   ```
+3. Install dependencies:
+   ```sh
+   npm install
+   ```
+4. Start the development server:
+   ```sh
+   npm start
+   ```
 
-**Use your preferred IDE**
+## 📬 Contact
+For any inquiries, feel free to reach out!
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/c1d29e27-c7e3-429b-9640-b8b1e5921d6a) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+- **Creator:** Caline Uwingabire
+- **Email:** u.caline@alustudent.com
+- **GitHub:** Uwingabir
+  
